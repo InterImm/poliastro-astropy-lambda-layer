@@ -1,2 +1,8 @@
-# poliastro-astropy-lambda-layer
-lambda layers for poliastro astropy numpy etc
+# astropy and poliastropy lambda layer
+
+
+## Development
+
+
+Just run `build.sh`
+
